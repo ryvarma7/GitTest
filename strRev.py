@@ -1,3 +1,3 @@
-sName = "Tourbillion"
-for i in range(100):
-    print(sName[::-1])
+import userInput as ui
+for i in range(2):
+    print(ui.nameInp[::-1])
